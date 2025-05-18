@@ -1,4 +1,3 @@
-# Text-Similarity-Search-using-TF-IDF-and-Nearest-Neighbors
 
 # Text Similarity Search using TF-IDF and Nearest Neighbors
 
